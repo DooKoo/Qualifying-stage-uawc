@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Table</title>
+</head>
+<body>
+<table border="2">
+    {{ test|safe }}
+   <caption>Table</caption>
+   <tr>
+       <th style="color:red">Tank name</th>
+        {% for name in names %}
+            <th>{{ name.nickname }}</th>
+        {% endfor %}
+   </tr>
+        {{ items|safe }}
+  </table>
+</body>
+</html>

@@ -1,4 +1,1 @@
-Для того щоб запустити застосунок потрібно виконати:
-cd /vagrant/app
-python3 app.py
-
+Р РѕР±РѕС‚Р° СЃ Wargaming Public API, РІС–РґР±С–СЂРєРѕРІРёР№ РµС‚Р°Рї Ua Web Challenge

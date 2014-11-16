@@ -1,1 +1,2 @@
-Робота с Wargaming Public API, відбірковий етап Ua Web Challenge
+Робота с Wargaming Public API.
+Відбірковий етап Ua Web Challenge.
